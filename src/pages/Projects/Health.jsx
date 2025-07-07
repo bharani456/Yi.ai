@@ -3,7 +3,7 @@
 import AnimatedLogo from "../../components/AnimatedLogo";
 import { Users, ShieldCheck, HeartPulse, Activity } from "lucide-react";
 import yiHealthLogo from "/assets/images/Yi-Health.png";
-import AutoScrollCarousel from "../../Components/AutoScrollCarousel"; // You should have this reusable carousel
+import AutoScrollCarousel from "../../components/AutoScrollCarousel"; // You should have this reusable carousel
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 
