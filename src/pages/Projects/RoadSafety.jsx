@@ -9,7 +9,7 @@ import {
   HelpCircle,
 } from "lucide-react";
 import roadSafetyLogo from "/assets/images/Yi-RoadSafety.png";
-import Carousel from "../../Components/Carousel";
+import Carousel from "../../components/Carousel";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 
