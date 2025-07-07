@@ -9,7 +9,7 @@ import {
   Calendar,
   Globe,
 } from "lucide-react";
-import Carousel from "../../Components/Carousel";
+import Carousel from "../../components/Carousel";
 import Card from "./Card";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
