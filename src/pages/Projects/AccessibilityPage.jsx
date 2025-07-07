@@ -11,7 +11,7 @@ import {
   Wifi,
 } from "lucide-react";
 import yiaccessibility from "/assets/images/Yi-Accessibility.png";
-import Carousel from "../../Components/Carousel";
+import Carousel from "../../components/Carousel";
 import AnimatedLogo from "../../components/AnimatedLogo";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
